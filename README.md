@@ -1,3 +1,5 @@
+## php version
+- 8.2
 ## Setup project
 - run command composer i
 - cp .env.example .env
